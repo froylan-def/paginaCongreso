@@ -1,0 +1,74 @@
+
+---Archivos descargados---
+Los archivos de importación para Demo Import ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 120
+Información de archivos:
+URL del sitio = http://127.0.0.1/congreso
+Archivo de datos = C:\xampp\htdocs\congreso/wp-content/themes/imevent/demo_import/demo-content.xml
+Archivo de widget = ¡no definido!
+Archivo del personalizador = ¡no definido!
+Archivos de Redux:
+ theme_option -> C:\xampp\htdocs\congreso/wp-content/themes/imevent/demo_import/redux.json 
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+---Ajustes de importación de Redux---
+¡La importación de los ajustes de Redux theme_option ha finalizado correctamente!
+
+---ocdi/after_import---
+
