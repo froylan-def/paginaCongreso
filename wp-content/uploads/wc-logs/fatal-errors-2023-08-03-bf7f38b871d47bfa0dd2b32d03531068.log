@@ -1,0 +1,6 @@
+2023-08-03T23:16:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\congreso\wp-includes\blocks.php en la línea 328
+
+2023-08-03T23:50:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\congreso\wp-content\plugins\woocommerce\src\Internal\Settings\OptionSanitizer.php en la línea 10
+
+2023-08-03T23:55:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\congreso\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Domain\Services\FeatureGating.php en la línea 39
+

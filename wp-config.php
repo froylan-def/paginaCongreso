@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'congreso' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'idpet' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'djhasX6-' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );

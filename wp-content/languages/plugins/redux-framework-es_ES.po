@@ -2,14 +2,22 @@
 # This file is distributed under the same license as the Plugins - Redux Framework - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-13 08:08:10+0000\n"
+"PO-Revision-Date: 2023-08-04 07:53:35+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
 "Language: es\n"
 "Project-Id-Version: Plugins - Redux Framework - Stable (latest release)\n"
+
+#: sample/sections/extensions/icon-select.php:35
+msgid "Original Icon Select field that maintains backward compatibility with the original extension."
+msgstr "Campo de selección de icono originas que mantenga la compatibilidad con la extensión original."
+
+#: sample/sections/extensions/icon-select.php:34
+msgid "Legacy Icon Select"
+msgstr "Selección de icono legado"
 
 #: redux-core/inc/extensions/icon_select/icon_select/class-redux-icon-select.php:243
 msgid "Remove Icon"
@@ -20,9 +28,18 @@ msgstr "Eliminar icono"
 msgid "Add Icon"
 msgstr "Añadir icono"
 
+#: redux-core/inc/extensions/icon_select/icon_select/class-redux-icon-select.php:113
+#: redux-core/inc/extensions/icon_select/icon_select/class-redux-icon-select.php:127
+msgid "Error retrieving stylesheet "
+msgstr "Error al recuperar la hoja de estilos "
+
 #: redux-core/inc/extensions/icon_select/class-redux-extension-icon-select.php:118
 msgid "No data available."
 msgstr "No hay datos disponibles."
+
+#: redux-core/inc/extensions/icon_select/class-redux-extension-icon-select.php:62
+msgid "Error: Invalid nonce verification."
+msgstr "Error: Verificación de nonce no válida."
 
 #: sample/sections/extensions/users.php:31
 msgid "User Settings"
@@ -1491,6 +1508,10 @@ msgstr "Opción de alternancia ordenable"
 #: sample/sections/advanced-features/wpml-integration.php:15
 msgid "These fields can be fully translated by WPML (WordPress Multi-Language). This serves as an example for you to implement. For extra details look at our WPML Implementation documentation: "
 msgstr "Estos campos pueden ser totalmente traducidos por WPML (WordPress Multi-Language). Esto sirve como ejemplo para que lo implementes. Para más detalles, consulta nuestra documentación sobre la implementación de WPML: "
+
+#: sample/sections/advanced-features/field-sanitizing.php:42
+msgid "Uses the custom function redux_custom_sanitize to capitalize every other letter."
+msgstr "Utiliza la función personalizada redux_custom_sanitize para poner en mayúsculas letras alternas."
 
 #: sample/sections/advanced-features/field-sanitizing.php:41
 msgid "Text Option - Custom Sanitize"
@@ -3048,6 +3069,30 @@ msgstr "Ejemplo de Sección"
 msgid "Section"
 msgstr "Sección"
 
+#: sample/sections/presentation-fields/info.php:103
+msgid "This is a non-notice field with the <strong>critical</strong> style applied and an icon."
+msgstr "Se trata de un campo sin aviso con el estilo <strong>critical</strong> aplicado y un icono."
+
+#: sample/sections/presentation-fields/info.php:94
+msgid "This is non-notice field with the <strong>success</strong> style applied and an icon."
+msgstr "Se trata de un campo sin aviso con el estilo <strong>success</strong> aplicado y un icono."
+
+#: sample/sections/presentation-fields/info.php:85
+msgid "This is non-notice field with the <strong>warning</strong> style applied and an icon."
+msgstr "Se trata de un campo sin aviso con el estilo <strong>warning</strong> aplicado y un icono."
+
+#: sample/sections/presentation-fields/info.php:76
+msgid "This is non-notice field with the <strong>info</strong> style applied."
+msgstr "Se trata de un campo sin aviso con el estilo <strong>info</strong> aplicado."
+
+#: sample/sections/presentation-fields/info.php:68
+msgid "This is non-notice field with the <strong>normal</strong> style applied."
+msgstr "Se trata de un campo sin aviso con el estilo <strong>normal</strong> aplicado."
+
+#: sample/sections/presentation-fields/info.php:61
+msgid "This is field with the <strong>custom</strong> style applied, color arg passed, and an icon."
+msgstr "Es un campo con el estilo <strong>custom</strong> aplicado, el argumento de color pasado y un icono."
+
 #: sample/sections/presentation-fields/info.php:52
 msgid "This is an info field with the <strong>critical</strong> style applied and an icon."
 msgstr "Este es un campo de información con el estilo de <strong>crítico</strong> aplicado y un icono."
@@ -3112,6 +3157,10 @@ msgstr "Este es un título"
 #: sample/metaboxes.php:163 sample/sections/media-uploads/slides.php:24
 msgid "This field will store all slides values into a multidimensional array to use into a foreach loop."
 msgstr "Este campo almacenará todos los valores de diapositivas en una matriz multidimensional para usar en un bucle foreach."
+
+#: sample/metaboxes.php:162 sample/sections/media-uploads/slides.php:23
+msgid "Unlimited slides with drag and drop sorting."
+msgstr "Diapositivas ilimitadas con ordenación de arrastrar y soltar."
 
 #: sample/metaboxes.php:161 sample/sections/media-uploads/slides.php:22
 msgid "Slides Options"
@@ -3864,6 +3913,10 @@ msgstr "Debe proporcionar una lista de valores numéricos separados por comas pa
 #: sample/sample-config.php:517
 msgid "Redux Extensions"
 msgstr "Extensiones de Redux"
+
+#: redux-core/inc/themecheck/checks/class-redux-full-package.php:45
+msgid "CI Testing File"
+msgstr "Archivo de pruebas CI"
 
 #: redux-core/inc/themecheck/checks/class-redux-full-package.php:44
 msgid "Redux Plugin File"
